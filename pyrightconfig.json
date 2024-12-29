@@ -1,0 +1,8 @@
+{
+    "reportMissingImports": false,
+    "pythonVersion": "3.8",
+    "include": ["app"],
+    "exclude": ["**/node_modules", "**/__pycache__"],
+    "venvPath": ".",
+    "venv": "venv"
+} 
